@@ -14,14 +14,14 @@ div > p {
 	margin-top: -5px;
 }
 
-/* Desktop */
+/* not XS */
 @media (min-width:768px){
 	#collapsable-nav {
 		visibility: hidden;
 	}
 }
 
-/* not Desktop */
+/* XS */
 @media (max-width:767px){
 	
 	.navbar-brand {
